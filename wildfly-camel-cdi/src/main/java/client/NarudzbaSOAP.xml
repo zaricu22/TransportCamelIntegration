@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<narudzba>
+		<narucilac>
+			<nazivNarucioca> Narucilac2 </nazivNarucioca>
+			<adresaNarucioca> adresaNaruioca2 </adresaNarucioca>
+			<kontaktNarucioca> kontaktNarucioca2 </kontaktNarucioca>
+			<mesto> Sombor </mesto>
+		</narucilac>
+		<vaznostIsporuke> obicna </vaznostIsporuke>
+		<datum> 2021-02-17 13:50:45 </datum>
+		<artikli> 
+	        <artikal>
+	        	<nazivProizvoda> "Proizvod2" </nazivProizvoda>
+	        	<tipProizvoda> "povrce" </tipProizvoda>
+	        	<kataloskiBroj> "BCD" </kataloskiBroj>
+	        	<kolicina> 50 </kolicina>
+	        	<tezina> 20.0 </tezina>
+	        </artikal>
+	        <artikal>
+	        	<nazivProizvoda> "Proizvod3" </nazivProizvoda>
+	        	<tipProizvoda> "povrce" </tipProizvoda>
+	        	<kataloskiBroj> "AFGD" </kataloskiBroj>
+	        	<kolicina> 10 </kolicina>
+	        	<tezina> 20.0 </tezina>
+	        </artikal>
+		</artikli>
+	</narudzba>
+

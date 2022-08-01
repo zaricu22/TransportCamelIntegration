@@ -1,0 +1,28 @@
+{
+	"narudzba":{
+		"narucilac":{
+			"nazivNarucioca": "Narucilac2",
+			"adresaNarucioca": "adresaNaruioca2",
+			"kontaktNarucioca": "kontaktNarucioca2",
+			"mesto": "Sombor"
+		},
+		"vaznostIsporuke": "obicna",
+		"datum": "2021-02-17 13:50:45",
+		"artikli": [
+	        {
+	        	"nazivProizvoda": "Proizvod2",
+	        	"tipProizvoda": "povrce",
+	        	"kataloskiBroj": "BCD",
+	        	"kolicina": 50,
+	        	"tezina": 20.0
+	        },
+	        {
+	        	"nazivProizvoda": "Proizvod3",
+	        	"tipProizvoda": "povrce",
+	        	"kataloskiBroj": "AFGD",
+	        	"kolicina": 10,
+	        	"tezina": 20.0
+	        }
+		]
+	}
+}
