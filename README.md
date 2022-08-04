@@ -1,4 +1,4 @@
-# TransportCamelIntegration
+# WarehouseCamelIntegration
 
 Project explore possibilities of Apache Camel Integration Framowork
 which facilitate connection between modules or applications of different technologies.
