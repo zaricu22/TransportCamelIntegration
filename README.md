@@ -14,5 +14,5 @@ All participants and internal workers access system services through integration
 
 Because warehouse management system operates with lot of reports and notes, database of this system is based on MongoDB (Document-oriented NoSQL database).
 
-
+Detailed logical descripton of system can be viewed in 'Diagrams' folder.
 
