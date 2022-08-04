@@ -9,7 +9,8 @@ All three modules are developed as standalone application intended to be deploye
 Integration logic is also developed by Camel Framowork as standalone application and it can be deployed on existing or separate server. 
 Apache Camel Framowork also support development of integration logic as part of existing application.  
 
-Purpose of this software system is to connect internal workers in three separate departments of warehouse as well as third-party participants like manufacturers, markets and online buyers, carriers, and remote warehouse management.
+This software system provide and support logistics chain. 
+Its purpose is to connect internal workers in three separate departments of warehouse as well as third-party participants like manufacturers, markets and online buyers, carriers, and remote warehouse management.
 All participants and internal workers access system services through integration application which provide compatibility and security features.
 
 Because warehouse management system operates with lot of reports and notes, database of this system is based on MongoDB (Document-oriented NoSQL database).
