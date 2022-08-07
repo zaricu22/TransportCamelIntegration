@@ -1,6 +1,6 @@
 # WarehouseCamelIntegration
 
-Project explore possibilities of Apache Camel Integration Framowork
+Project explores possibilities of Apache Camel Integration Framowork
 which facilitate connection between modules or applications of different technologies.
 Developed software system mostly rely on Java and platform-independent(like REST and SOAP) tehnologies, but Apache Camel also support proprietary approaches from other platform in same manner. All applications are deployable to Java EE servers, but 'wildfly-camel-integration' application require installation of Camel subsystem (more details on https://wildfly-extras.github.io/wildfly-camel/) 
 
