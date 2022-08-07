@@ -6,7 +6,7 @@ Developed software system mostly rely on Java and platform-independent tehnologi
 
 Application include five functional units (warehouse management, commodity stocks management, reporting, ordering, and delivery) placed in three application modules (analysis, warehouse, and shipping).
 All three modules are developed as standalone application intended to be deployed on separate virtual or physical servers.
-Integration logic is also developed by Camel Framowork as standalone application and it can be deployed on existing or separate server. 
+Integration logic is also developed as standalone application by Camel Framowork and it can be deployed on existing or separate server. 
 Apache Camel Framowork also support development of integration logic as part of existing application.  
 
 This software system provide and support logistics chain. 
