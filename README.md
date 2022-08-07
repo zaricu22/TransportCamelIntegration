@@ -2,7 +2,7 @@
 
 Project explores possibilities of Apache Camel Integration Framowork
 which facilitate connection between modules or applications of different technologies.
-Developed software system mostly rely on Java and platform-independent (like REST and SOAP) tehnologies, but Apache Camel also support proprietary approaches from other platform in same manner. All applications are deployable to Java EE servers, but 'wildfly-camel-integration' application require installation of Camel subsystem (more details on https://wildfly-extras.github.io/wildfly-camel/) 
+Developed software system mostly rely on Java and platform-independent tehnologies (like REST and SOAP), but Apache Camel also support proprietary approaches from other platform in same manner. All applications are deployable to Java EE servers, but 'wildfly-camel-integration' application require installation of Camel subsystem (more details on https://wildfly-extras.github.io/wildfly-camel/) 
 
 Application include five functional units (warehouse management, commodity stocks management, reporting, ordering, and delivery) placed in three application modules (analysis, warehouse, and shipping).
 All three modules are developed as standalone application intended to be deployed on separate virtual or physical servers.
