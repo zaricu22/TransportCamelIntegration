@@ -22,5 +22,5 @@ All mentioned modules are developed as standalone application and they are inten
 Integration logic, developed via Camel Framowork, is also standalone application which is deployable on existing or separate server.  
 It should be mentioned that Apache Camel Framowork also support development of integration logic as part of some existing application.  
 
-Detailed logical descripton of system can be viewed in 'Diagrams' folder.
+Detailed logical descripton of system can be viewed in <a href="Diagrams">'Diagrams'</a> folder.
 
