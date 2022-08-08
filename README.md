@@ -4,7 +4,7 @@ Project explores possibilities of Apache Camel Integration Framowork
 which facilitate connection between modules or applications developed using different technologies.
 Developed software system mostly rely on Java and platform-independent standards (like REST and SOAP), but Apache Camel also support proprietary communication protocols from other platform in same manner. All applications are deployable to Java EE servers, with note that 'wildfly-camel-integration' application require installation of Camel subsystem (more details on https://wildfly-extras.github.io/wildfly-camel/). 
 
-This software system provide and support logistics chain. 
+This software should support logistics chain. 
 Its purpose is to connect internal workers in three separate departments of warehouse as well as third-party participants like manufacturers, markets and online buyers, carriers, and remote warehouse management.
 All participants and internal workers access system services through integration application which provide compatibility and security features.
 
