@@ -19,7 +19,7 @@ Because warehouse management system operates with lot of reports and notes, data
 
 Application include five functional units (warehouse management, commodity stocks management, reporting, ordering, and delivery) placed in three application modules of system (analysis, warehouse, and shipping).
 All mentioned modules are developed as standalone application and they are intended to be deployed on separate virtual or physical servers. 
-Integration logic, developed via Camel Framowork, is also standalone application which is deployable on existing or separate server.  
+Integration logic, developed via Camel Framowork, is also standalone application which is deployable on existing or separate server.
 It should be mentioned that Apache Camel Framowork also support development of integration logic as part of some existing application.  
 
 Detailed logical descripton of system can be viewed in <a href="Diagrams">'Diagrams'</a> folder.
