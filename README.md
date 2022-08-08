@@ -13,7 +13,7 @@ All applications are deployable to Java EE server implementations, with note tha
 
 This software system should support logistics chain. 
 Its purpose is to connect internal workers in three separate departments of warehouse as well as third-party participants like manufacturers, markets and online buyers, carriers, and remote warehouse management. 
-All participants and internal workers access system services through integration application which provide compatibility and security features.
+All participants and internal workers access system services through integration application which provide compatibility and security mechanisms.
 
 Because warehouse management system operates with lot of reports and notes, database of this system is based on MongoDB (Document-oriented NoSQL database).
 
