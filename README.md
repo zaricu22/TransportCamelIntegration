@@ -4,7 +4,7 @@ The project explores possibilities of Apache Camel Integration Framework. </br>
 Purpose of this framework is to support capability of automated message routing between connected modules or applications
 with possibility of adapting communication protocols and translating message formats used by different technologies and standards. 
 It also provide predefined architectural patterns (EIP) to solve integration problems in a common way. 
-A great framework's feature is Java DSL (Domain-Specific Language) which support system components configuration through program code in regard to robust XML configuration. 
+The framework main feature is Java DSL (Domain-Specific Language) which support system components configuration through program code in regard to robust XML configuration. 
 All mentioned advantages enable simplification of development process where developers are focused only on providing corresponding parameters. 
 This framework represents basic code-level integration libraries which was used as base for implementing more roboust GUI and Cloud based software integration solutions. 
 
