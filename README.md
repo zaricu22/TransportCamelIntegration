@@ -8,7 +8,7 @@ The framework main feature is Java DSL (Domain-Specific Language) which support 
 All mentioned advantages enable simplification of development process where developers are focused only on providing corresponding parameters. 
 This framework represents basic code-level integration libraries which has used as base for implementing more roboust GUI and Cloud based software integration solutions. 
 
-Developed software system mostly rely on Java and platform-independent standards (like REST and SOAP), but Apache Camel also support proprietary communication protocols and mesage formats used by other platforms in same manner. </br>
+Developed software system mostly rely on Java and platform-independent standards (like REST and SOAP), but Apache Camel also support proprietary communication protocols and mesage formats used by other platforms in same manner.
 All applications are deployable to Java EE server implementations, with note that <a href="./wildfly-camel-cdi">'wildfly-camel-integration'</a> application require installation of Camel subsystem on corresponding server. 
 
 This software system should support logistics chain. 
