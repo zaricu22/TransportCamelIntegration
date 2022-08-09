@@ -1,6 +1,6 @@
 # WarehouseCamelIntegration
 
-The project explores possibilities of Apache Camel Integration Framework. </br>
+A project explores possibilities of Apache Camel Integration Framework. </br>
 The purpose of this framework is to support a capability of automated message routing between connected modules or applications
 with a possibility of adapting a communication protocols and translating a message formats used by different technologies and standards. 
 It also provide a predefined architectural patterns (EIP) to solve a integration problems in a common way. 
